@@ -2,7 +2,7 @@
 # Chap 0    
 ## 课程 [模拟电子技术(清华大学)](https://www.bilibili.com/video/BV1Vp411f71S)
 ## 课本 [模拟电子技术(上)](../TextBooks/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%89.pdf)&emsp;[模拟电子技术基础(下)](../TextBooks/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80(%E4%B8%8B).pdf)
-
+#　Chap 1什么是半导体
 ## Chap 1.1.1 本征半导体
 &emsp;导体和绝缘体之间的元素就叫半导体, 材料的导电性能主要由自由电子决定.
 绝缘体一般是高价元素,或者高分子物质。
